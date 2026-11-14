@@ -25,7 +25,7 @@
 | 前端 | React 19、Vite 7、Tailwind 4、React Router 7（移动端优先，无组件库） |
 | 后端 | FastAPI 0.162、uvicorn、pydantic-settings、httpx |
 | 数据 | SQLite（标准库 `sqlite3`，WAL 模式） |
-| 环境 | conda 环境 `xcclient`（Python 3.13）；Node 20+ |
+| 环境 | Python 3.13；Node 20+ |
 | 部署 | Docker 多阶段构建 / systemd + conda / nginx 或 Caddy 反代 |
 
 ## 目录结构
@@ -55,7 +55,7 @@ src/
 
 前置：Node 20+、Python 3.13（conda 环境或 venv 均可）。
 
-`scripts/*.mjs` 会自动找 Python 解释器：`PYTHON` 环境变量 → 项目内 `.venv` → 用户目录下的 conda 环境 `xcclient` → PATH 里的 `python`。
+`scripts/*.mjs` 会自动找 Python 解释器：`PYTHON` 环境变量 → 项目内 `.venv` → 用户目录下的 conda 环境 → PATH 里的 `python`。
 
 ```powershell
 # 0. 准备配置文件
