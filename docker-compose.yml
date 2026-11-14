@@ -1,0 +1,49 @@
+services:
+  app:
+    build: .
+    image: vocab-app:latest
+    container_name: vocab-app
+    restart: unless-stopped
+    env_file:
+      - .env
+    environment:
+      DB_PATH: /app/data/app.db
+    ports:
+      # 只绑本机，由 nginx / caddy 反代对外提供 HTTPS
+      - "127.0.0.1:3000:3000"
+    volumes:
+      - ./data:/app/data
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request;urllib.request.urlopen('http://127.0.0.1:3000/api/health', timeout=3)",
+        ]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 20s
+
+  # 可选：Caddy 自动申请 HTTPS 证书。启用方式：
+  #   1) 把 deploy/Caddyfile.example 复制为 Caddyfile，改域名
+  #   2) docker compose --profile tls up -d
+  caddy:
+    image: caddy:2-alpine
+    container_name: vocab-caddy
+    restart: unless-stopped
+    profiles: ["tls"]
+    depends_on:
+      - app
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+
+volumes:
+  caddy_data:
+  caddy_config:

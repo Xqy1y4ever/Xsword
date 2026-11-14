@@ -1,0 +1,48 @@
+# 需要先安装 docker 与 docker compose 插件，并放行 80/443 端口
+server {
+    listen 80;
+    listen [::]:80;
+    server_name vocab.example.com;
+
+    # certbot 验证目录（使用 certbot --nginx 时会自动处理）
+    location /.well-known/acme-challenge/ {
+        root /var/www/certbot;
+    }
+
+    location / {
+        return 301 https://$host$request_uri;
+    }
+}
+
+server {
+    listen 443 ssl;
+    listen [::]:443 ssl;
+    http2 on;
+    server_name vocab.example.com;
+
+    ssl_certificate     /etc/letsencrypt/live/vocab.example.com/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/vocab.example.com/privkey.pem;
+    ssl_protocols TLSv1.2 TLSv1.3;
+
+    client_max_body_size 2m;
+
+    # 静态资源缓存
+    location /assets/ {
+        proxy_pass http://127.0.0.1:3000;
+        proxy_set_header Host $host;
+        proxy_cache_valid 200 7d;
+        expires 7d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    location / {
+        proxy_pass http://127.0.0.1:3000;
+        proxy_http_version 1.1;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        # 生产环境请把 .env 里的 COOKIE_SECURE 设为 1，并保证这一行为 https
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_read_timeout 120s;
+    }
+}

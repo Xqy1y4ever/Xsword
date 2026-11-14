@@ -1,0 +1,6 @@
+# 把 vocab.example.com 换成你的域名；DNS 解析指向本机后，
+# Caddy 会自动申请并续期 Let's Encrypt 证书。
+vocab.example.com {
+    encode gzip zstd
+    reverse_proxy app:3000
+}

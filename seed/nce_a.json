@@ -1,0 +1,2847 @@
+[
+ {
+  "term": "abandon",
+  "meaning": "放弃；抛弃",
+  "tags": "nce-a"
+ },
+ {
+  "term": "abstract",
+  "meaning": "抽象的；摘要",
+  "tags": "nce-a"
+ },
+ {
+  "term": "academy",
+  "meaning": "研究院；学院；学会",
+  "tags": "nce-a"
+ },
+ {
+  "term": "access",
+  "meaning": "接近；入口",
+  "tags": "nce-a"
+ },
+ {
+  "term": "accommodate",
+  "meaning": "容纳；给…提供住宿；使适应",
+  "tags": "nce-a"
+ },
+ {
+  "term": "accompany",
+  "meaning": "陪伴；伴随",
+  "tags": "nce-a"
+ },
+ {
+  "term": "accumulate",
+  "meaning": "积累",
+  "tags": "nce-a"
+ },
+ {
+  "term": "accurate",
+  "meaning": "准确的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "achieve",
+  "meaning": "完成；取得",
+  "tags": "nce-a"
+ },
+ {
+  "term": "acknowledge",
+  "meaning": "承认；致谢",
+  "tags": "nce-a"
+ },
+ {
+  "term": "acquire",
+  "meaning": "获得",
+  "tags": "nce-a"
+ },
+ {
+  "term": "adapt",
+  "meaning": "使适应；改编",
+  "tags": "nce-a"
+ },
+ {
+  "term": "adequate",
+  "meaning": "足够的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "adjacent",
+  "meaning": "毗连的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "adjust",
+  "meaning": "调整",
+  "tags": "nce-a"
+ },
+ {
+  "term": "administer",
+  "meaning": "管理",
+  "tags": "nce-a"
+ },
+ {
+  "term": "adult",
+  "meaning": "成年人",
+  "tags": "nce-a"
+ },
+ {
+  "term": "advocate",
+  "meaning": "拥护者；拥护",
+  "tags": "nce-a"
+ },
+ {
+  "term": "affect",
+  "meaning": "影响",
+  "tags": "nce-a"
+ },
+ {
+  "term": "aggregate",
+  "meaning": "总的；总计",
+  "tags": "nce-a"
+ },
+ {
+  "term": "aid",
+  "meaning": "帮助",
+  "tags": "nce-a"
+ },
+ {
+  "term": "albeit",
+  "meaning": "虽然",
+  "tags": "nce-a"
+ },
+ {
+  "term": "allocate",
+  "meaning": "分派",
+  "tags": "nce-a"
+ },
+ {
+  "term": "alter",
+  "meaning": "改变",
+  "tags": "nce-a"
+ },
+ {
+  "term": "alternative",
+  "meaning": "替代物；替代的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ambiguous",
+  "meaning": "模棱两可的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "amend",
+  "meaning": "修订",
+  "tags": "nce-a"
+ },
+ {
+  "term": "analogy",
+  "meaning": "类似；类推",
+  "tags": "nce-a"
+ },
+ {
+  "term": "analyze",
+  "meaning": "分析",
+  "tags": "nce-a"
+ },
+ {
+  "term": "annual",
+  "meaning": "每年的；年鉴",
+  "tags": "nce-a"
+ },
+ {
+  "term": "anticipate",
+  "meaning": "预料",
+  "tags": "nce-a"
+ },
+ {
+  "term": "apparent",
+  "meaning": "明显的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "append",
+  "meaning": "附录",
+  "tags": "nce-a"
+ },
+ {
+  "term": "appreciate",
+  "meaning": "欣赏；感激",
+  "tags": "nce-a"
+ },
+ {
+  "term": "approach",
+  "meaning": "靠近；方法",
+  "tags": "nce-a"
+ },
+ {
+  "term": "appropriate",
+  "meaning": "恰当的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "approximate",
+  "meaning": "近似的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "arbitrary",
+  "meaning": "任意的；专断的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "area",
+  "meaning": "面积；地区；领域",
+  "tags": "nce-a"
+ },
+ {
+  "term": "aspect",
+  "meaning": "方面",
+  "tags": "nce-a"
+ },
+ {
+  "term": "assemble",
+  "meaning": "集合；装配",
+  "tags": "nce-a"
+ },
+ {
+  "term": "assess",
+  "meaning": "估价；评价",
+  "tags": "nce-a"
+ },
+ {
+  "term": "assign",
+  "meaning": "分派",
+  "tags": "nce-a"
+ },
+ {
+  "term": "assist",
+  "meaning": "援助",
+  "tags": "nce-a"
+ },
+ {
+  "term": "assume",
+  "meaning": "假设；认为；承担",
+  "tags": "nce-a"
+ },
+ {
+  "term": "assure",
+  "meaning": "保证",
+  "tags": "nce-a"
+ },
+ {
+  "term": "attach",
+  "meaning": "贴；附加",
+  "tags": "nce-a"
+ },
+ {
+  "term": "attain",
+  "meaning": "达到；获得",
+  "tags": "nce-a"
+ },
+ {
+  "term": "attitude",
+  "meaning": "态度",
+  "tags": "nce-a"
+ },
+ {
+  "term": "attribute",
+  "meaning": "归结于；性质",
+  "tags": "nce-a"
+ },
+ {
+  "term": "author",
+  "meaning": "作者；创始人",
+  "tags": "nce-a"
+ },
+ {
+  "term": "authority",
+  "meaning": "当局；权威",
+  "tags": "nce-a"
+ },
+ {
+  "term": "automate",
+  "meaning": "使自动化",
+  "tags": "nce-a"
+ },
+ {
+  "term": "available",
+  "meaning": "可得到的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "aware",
+  "meaning": "意识到的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "behalf",
+  "meaning": "利益",
+  "tags": "nce-a"
+ },
+ {
+  "term": "benefit",
+  "meaning": "利益；津贴；有益",
+  "tags": "nce-a"
+ },
+ {
+  "term": "bias",
+  "meaning": "偏见",
+  "tags": "nce-a"
+ },
+ {
+  "term": "bond",
+  "meaning": "纽带；债券",
+  "tags": "nce-a"
+ },
+ {
+  "term": "brief",
+  "meaning": "简短的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "bulk",
+  "meaning": "体积；大批",
+  "tags": "nce-a"
+ },
+ {
+  "term": "capable",
+  "meaning": "能够的；有能力的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "capacity",
+  "meaning": "容量",
+  "tags": "nce-a"
+ },
+ {
+  "term": "category",
+  "meaning": "种类；范畴",
+  "tags": "nce-a"
+ },
+ {
+  "term": "cease",
+  "meaning": "停止",
+  "tags": "nce-a"
+ },
+ {
+  "term": "challenge",
+  "meaning": "挑战",
+  "tags": "nce-a"
+ },
+ {
+  "term": "channel",
+  "meaning": "海峡；频道",
+  "tags": "nce-a"
+ },
+ {
+  "term": "chapter",
+  "meaning": "章",
+  "tags": "nce-a"
+ },
+ {
+  "term": "chart",
+  "meaning": "图表",
+  "tags": "nce-a"
+ },
+ {
+  "term": "chemical",
+  "meaning": "化学的；化学药品",
+  "tags": "nce-a"
+ },
+ {
+  "term": "circumstance",
+  "meaning": "情况",
+  "tags": "nce-a"
+ },
+ {
+  "term": "cite",
+  "meaning": "引用",
+  "tags": "nce-a"
+ },
+ {
+  "term": "civil",
+  "meaning": "公民的；国内的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "clarify",
+  "meaning": "阐明",
+  "tags": "nce-a"
+ },
+ {
+  "term": "classic",
+  "meaning": "名著；经典的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "clause",
+  "meaning": "条款；从句",
+  "tags": "nce-a"
+ },
+ {
+  "term": "code",
+  "meaning": "代码；法典",
+  "tags": "nce-a"
+ },
+ {
+  "term": "coherent",
+  "meaning": "连贯的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "coincide",
+  "meaning": "相符",
+  "tags": "nce-a"
+ },
+ {
+  "term": "collapse",
+  "meaning": "倒塌",
+  "tags": "nce-a"
+ },
+ {
+  "term": "colleague",
+  "meaning": "同事",
+  "tags": "nce-a"
+ },
+ {
+  "term": "commence",
+  "meaning": "开始",
+  "tags": "nce-a"
+ },
+ {
+  "term": "comment",
+  "meaning": "评论",
+  "tags": "nce-a"
+ },
+ {
+  "term": "commission",
+  "meaning": "委任；委员会",
+  "tags": "nce-a"
+ },
+ {
+  "term": "commit",
+  "meaning": "犯",
+  "tags": "nce-a"
+ },
+ {
+  "term": "commodity",
+  "meaning": "日用品",
+  "tags": "nce-a"
+ },
+ {
+  "term": "communicate",
+  "meaning": "交流",
+  "tags": "nce-a"
+ },
+ {
+  "term": "community",
+  "meaning": "社区；界",
+  "tags": "nce-a"
+ },
+ {
+  "term": "compatible",
+  "meaning": "兼容的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "compensate",
+  "meaning": "补偿",
+  "tags": "nce-a"
+ },
+ {
+  "term": "compile",
+  "meaning": "编纂",
+  "tags": "nce-a"
+ },
+ {
+  "term": "complement",
+  "meaning": "补充",
+  "tags": "nce-a"
+ },
+ {
+  "term": "complex",
+  "meaning": "复杂的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "component",
+  "meaning": "组成部分",
+  "tags": "nce-a"
+ },
+ {
+  "term": "compound",
+  "meaning": "化合物；复合词",
+  "tags": "nce-a"
+ },
+ {
+  "term": "comprehensive",
+  "meaning": "综合的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "comprise",
+  "meaning": "构成",
+  "tags": "nce-a"
+ },
+ {
+  "term": "compute",
+  "meaning": "计算",
+  "tags": "nce-a"
+ },
+ {
+  "term": "conceive",
+  "meaning": "构思；怀孕",
+  "tags": "nce-a"
+ },
+ {
+  "term": "concentrate",
+  "meaning": "浓缩；集中",
+  "tags": "nce-a"
+ },
+ {
+  "term": "concept",
+  "meaning": "概念",
+  "tags": "nce-a"
+ },
+ {
+  "term": "conclude",
+  "meaning": "下结论",
+  "tags": "nce-a"
+ },
+ {
+  "term": "concurrent",
+  "meaning": "同时的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "conduct",
+  "meaning": "行为；指挥",
+  "tags": "nce-a"
+ },
+ {
+  "term": "confer",
+  "meaning": "授予；协商",
+  "tags": "nce-a"
+ },
+ {
+  "term": "confine",
+  "meaning": "限制",
+  "tags": "nce-a"
+ },
+ {
+  "term": "confirm",
+  "meaning": "证实",
+  "tags": "nce-a"
+ },
+ {
+  "term": "conflict",
+  "meaning": "冲突",
+  "tags": "nce-a"
+ },
+ {
+  "term": "conform",
+  "meaning": "遵守；符合",
+  "tags": "nce-a"
+ },
+ {
+  "term": "consent",
+  "meaning": "同意",
+  "tags": "nce-a"
+ },
+ {
+  "term": "consequent",
+  "meaning": "必然的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "considerable",
+  "meaning": "相当大的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "consist",
+  "meaning": "组成",
+  "tags": "nce-a"
+ },
+ {
+  "term": "constant",
+  "meaning": "不断的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "constitute",
+  "meaning": "构成",
+  "tags": "nce-a"
+ },
+ {
+  "term": "constrain",
+  "meaning": "限制；强制",
+  "tags": "nce-a"
+ },
+ {
+  "term": "construct",
+  "meaning": "建造",
+  "tags": "nce-a"
+ },
+ {
+  "term": "consult",
+  "meaning": "咨询；请教；查阅",
+  "tags": "nce-a"
+ },
+ {
+  "term": "consume",
+  "meaning": "消费；消耗",
+  "tags": "nce-a"
+ },
+ {
+  "term": "contact",
+  "meaning": "接触；联系",
+  "tags": "nce-a"
+ },
+ {
+  "term": "contemporary",
+  "meaning": "当代的；同代人",
+  "tags": "nce-a"
+ },
+ {
+  "term": "context",
+  "meaning": "上下文；背景",
+  "tags": "nce-a"
+ },
+ {
+  "term": "contract",
+  "meaning": "合同；收缩",
+  "tags": "nce-a"
+ },
+ {
+  "term": "contradict",
+  "meaning": "矛盾",
+  "tags": "nce-a"
+ },
+ {
+  "term": "contrary",
+  "meaning": "相反的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "contrast",
+  "meaning": "对比",
+  "tags": "nce-a"
+ },
+ {
+  "term": "contribute",
+  "meaning": "贡献；捐献；投稿",
+  "tags": "nce-a"
+ },
+ {
+  "term": "controversy",
+  "meaning": "争论",
+  "tags": "nce-a"
+ },
+ {
+  "term": "convene",
+  "meaning": "召集",
+  "tags": "nce-a"
+ },
+ {
+  "term": "converse",
+  "meaning": "相反的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "convert",
+  "meaning": "转化",
+  "tags": "nce-a"
+ },
+ {
+  "term": "convince",
+  "meaning": "使信服",
+  "tags": "nce-a"
+ },
+ {
+  "term": "cooperate",
+  "meaning": "合作",
+  "tags": "nce-a"
+ },
+ {
+  "term": "coordinate",
+  "meaning": "协调",
+  "tags": "nce-a"
+ },
+ {
+  "term": "core",
+  "meaning": "核心",
+  "tags": "nce-a"
+ },
+ {
+  "term": "corporate",
+  "meaning": "公司的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "correspond",
+  "meaning": "通信；对应",
+  "tags": "nce-a"
+ },
+ {
+  "term": "couple",
+  "meaning": "夫妇；两个",
+  "tags": "nce-a"
+ },
+ {
+  "term": "create",
+  "meaning": "创造；产生",
+  "tags": "nce-a"
+ },
+ {
+  "term": "credit",
+  "meaning": "信用；学分；功劳",
+  "tags": "nce-a"
+ },
+ {
+  "term": "criteria",
+  "meaning": "标准",
+  "tags": "nce-a"
+ },
+ {
+  "term": "crucial",
+  "meaning": "决定性的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "culture",
+  "meaning": "文化",
+  "tags": "nce-a"
+ },
+ {
+  "term": "currency",
+  "meaning": "货币",
+  "tags": "nce-a"
+ },
+ {
+  "term": "cycle",
+  "meaning": "骑自行车；循环",
+  "tags": "nce-a"
+ },
+ {
+  "term": "data",
+  "meaning": "数据",
+  "tags": "nce-a"
+ },
+ {
+  "term": "debate",
+  "meaning": "辩论",
+  "tags": "nce-a"
+ },
+ {
+  "term": "decade",
+  "meaning": "十年",
+  "tags": "nce-a"
+ },
+ {
+  "term": "decline",
+  "meaning": "下倾；下降；谢绝；下降",
+  "tags": "nce-a"
+ },
+ {
+  "term": "deduce",
+  "meaning": "演绎",
+  "tags": "nce-a"
+ },
+ {
+  "term": "define",
+  "meaning": "下定义；明确",
+  "tags": "nce-a"
+ },
+ {
+  "term": "definite",
+  "meaning": "明确的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "demonstrate",
+  "meaning": "表明；演示；示威",
+  "tags": "nce-a"
+ },
+ {
+  "term": "denote",
+  "meaning": "表示",
+  "tags": "nce-a"
+ },
+ {
+  "term": "deny",
+  "meaning": "否定",
+  "tags": "nce-a"
+ },
+ {
+  "term": "depress",
+  "meaning": "使沮丧",
+  "tags": "nce-a"
+ },
+ {
+  "term": "derive",
+  "meaning": "起源",
+  "tags": "nce-a"
+ },
+ {
+  "term": "design",
+  "meaning": "设计；图案",
+  "tags": "nce-a"
+ },
+ {
+  "term": "despite",
+  "meaning": "尽管",
+  "tags": "nce-a"
+ },
+ {
+  "term": "detect",
+  "meaning": "检测",
+  "tags": "nce-a"
+ },
+ {
+  "term": "deviate",
+  "meaning": "偏离",
+  "tags": "nce-a"
+ },
+ {
+  "term": "device",
+  "meaning": "装置；设计",
+  "tags": "nce-a"
+ },
+ {
+  "term": "devote",
+  "meaning": "奉献；为…献身",
+  "tags": "nce-a"
+ },
+ {
+  "term": "differentiate",
+  "meaning": "区分",
+  "tags": "nce-a"
+ },
+ {
+  "term": "dimension",
+  "meaning": "尺寸；维",
+  "tags": "nce-a"
+ },
+ {
+  "term": "diminish",
+  "meaning": "减少",
+  "tags": "nce-a"
+ },
+ {
+  "term": "discrete",
+  "meaning": "分离的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "discriminate",
+  "meaning": "区别；歧视",
+  "tags": "nce-a"
+ },
+ {
+  "term": "displace",
+  "meaning": "移置",
+  "tags": "nce-a"
+ },
+ {
+  "term": "display",
+  "meaning": "展览；显示",
+  "tags": "nce-a"
+ },
+ {
+  "term": "dispose",
+  "meaning": "处理",
+  "tags": "nce-a"
+ },
+ {
+  "term": "distinct",
+  "meaning": "清晰的；独特的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "distort",
+  "meaning": "歪曲",
+  "tags": "nce-a"
+ },
+ {
+  "term": "distribute",
+  "meaning": "分布",
+  "tags": "nce-a"
+ },
+ {
+  "term": "diverse",
+  "meaning": "多样的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "document",
+  "meaning": "文件",
+  "tags": "nce-a"
+ },
+ {
+  "term": "domain",
+  "meaning": "领域；域",
+  "tags": "nce-a"
+ },
+ {
+  "term": "domestic",
+  "meaning": "国内的；家庭的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "dominate",
+  "meaning": "支配",
+  "tags": "nce-a"
+ },
+ {
+  "term": "draft",
+  "meaning": "草稿；通风；起草",
+  "tags": "nce-a"
+ },
+ {
+  "term": "drama",
+  "meaning": "戏剧",
+  "tags": "nce-a"
+ },
+ {
+  "term": "duration",
+  "meaning": "持续时间",
+  "tags": "nce-a"
+ },
+ {
+  "term": "dynamic",
+  "meaning": "有活力的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "economy",
+  "meaning": "经济；节约",
+  "tags": "nce-a"
+ },
+ {
+  "term": "edit",
+  "meaning": "编辑",
+  "tags": "nce-a"
+ },
+ {
+  "term": "element",
+  "meaning": "元素",
+  "tags": "nce-a"
+ },
+ {
+  "term": "eliminate",
+  "meaning": "消除",
+  "tags": "nce-a"
+ },
+ {
+  "term": "emerge",
+  "meaning": "出现",
+  "tags": "nce-a"
+ },
+ {
+  "term": "emphasis",
+  "meaning": "强调",
+  "tags": "nce-a"
+ },
+ {
+  "term": "empirical",
+  "meaning": "经验的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "enable",
+  "meaning": "使能够",
+  "tags": "nce-a"
+ },
+ {
+  "term": "encounter",
+  "meaning": "遇到",
+  "tags": "nce-a"
+ },
+ {
+  "term": "energy",
+  "meaning": "精力；能量",
+  "tags": "nce-a"
+ },
+ {
+  "term": "enforce",
+  "meaning": "实施",
+  "tags": "nce-a"
+ },
+ {
+  "term": "enhance",
+  "meaning": "增强",
+  "tags": "nce-a"
+ },
+ {
+  "term": "enormous",
+  "meaning": "巨大的；大量的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ensure",
+  "meaning": "保证",
+  "tags": "nce-a"
+ },
+ {
+  "term": "entity",
+  "meaning": "实体",
+  "tags": "nce-a"
+ },
+ {
+  "term": "environment",
+  "meaning": "环境",
+  "tags": "nce-a"
+ },
+ {
+  "term": "equate",
+  "meaning": "使相等；使平等",
+  "tags": "nce-a"
+ },
+ {
+  "term": "equip",
+  "meaning": "装备",
+  "tags": "nce-a"
+ },
+ {
+  "term": "equivalent",
+  "meaning": "对等",
+  "tags": "nce-a"
+ },
+ {
+  "term": "erode",
+  "meaning": "腐蚀",
+  "tags": "nce-a"
+ },
+ {
+  "term": "error",
+  "meaning": "错误",
+  "tags": "nce-a"
+ },
+ {
+  "term": "establish",
+  "meaning": "建立",
+  "tags": "nce-a"
+ },
+ {
+  "term": "estate",
+  "meaning": "房地产",
+  "tags": "nce-a"
+ },
+ {
+  "term": "estimate",
+  "meaning": "估计",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ethic",
+  "meaning": "伦理",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ethnic",
+  "meaning": "种族的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "evaluate",
+  "meaning": "评价",
+  "tags": "nce-a"
+ },
+ {
+  "term": "eventual",
+  "meaning": "最后",
+  "tags": "nce-a"
+ },
+ {
+  "term": "evident",
+  "meaning": "明显的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "evolve",
+  "meaning": "进化；演变",
+  "tags": "nce-a"
+ },
+ {
+  "term": "exceed",
+  "meaning": "超过",
+  "tags": "nce-a"
+ },
+ {
+  "term": "exclude",
+  "meaning": "排除",
+  "tags": "nce-a"
+ },
+ {
+  "term": "exhibit",
+  "meaning": "展览",
+  "tags": "nce-a"
+ },
+ {
+  "term": "expand",
+  "meaning": "扩大",
+  "tags": "nce-a"
+ },
+ {
+  "term": "expert",
+  "meaning": "专家；熟练的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "explicit",
+  "meaning": "明晰的；详述的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "exploit",
+  "meaning": "剥削；利用",
+  "tags": "nce-a"
+ },
+ {
+  "term": "export",
+  "meaning": "出口",
+  "tags": "nce-a"
+ },
+ {
+  "term": "expose",
+  "meaning": "暴露；揭露",
+  "tags": "nce-a"
+ },
+ {
+  "term": "external",
+  "meaning": "外部的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "extract",
+  "meaning": "取出；摘录",
+  "tags": "nce-a"
+ },
+ {
+  "term": "facilitate",
+  "meaning": "使容易",
+  "tags": "nce-a"
+ },
+ {
+  "term": "factor",
+  "meaning": "因素",
+  "tags": "nce-a"
+ },
+ {
+  "term": "feature",
+  "meaning": "特征",
+  "tags": "nce-a"
+ },
+ {
+  "term": "federal",
+  "meaning": "联邦的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "fee",
+  "meaning": "费",
+  "tags": "nce-a"
+ },
+ {
+  "term": "file",
+  "meaning": "文件；锉",
+  "tags": "nce-a"
+ },
+ {
+  "term": "final",
+  "meaning": "最后的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "finance",
+  "meaning": "财政",
+  "tags": "nce-a"
+ },
+ {
+  "term": "finite",
+  "meaning": "有限的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "flexible",
+  "meaning": "灵活的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "fluctuate",
+  "meaning": "波动",
+  "tags": "nce-a"
+ },
+ {
+  "term": "focus",
+  "meaning": "集中；焦点",
+  "tags": "nce-a"
+ },
+ {
+  "term": "format",
+  "meaning": "格式",
+  "tags": "nce-a"
+ },
+ {
+  "term": "formula",
+  "meaning": "公式",
+  "tags": "nce-a"
+ },
+ {
+  "term": "forthcoming",
+  "meaning": "即将到来的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "found",
+  "meaning": "建立",
+  "tags": "nce-a"
+ },
+ {
+  "term": "foundation",
+  "meaning": "建立；基础；基金会",
+  "tags": "nce-a"
+ },
+ {
+  "term": "framework",
+  "meaning": "框架",
+  "tags": "nce-a"
+ },
+ {
+  "term": "function",
+  "meaning": "功能；函数",
+  "tags": "nce-a"
+ },
+ {
+  "term": "fund",
+  "meaning": "资金",
+  "tags": "nce-a"
+ },
+ {
+  "term": "fundamental",
+  "meaning": "基本的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "furthermore",
+  "meaning": "此外",
+  "tags": "nce-a"
+ },
+ {
+  "term": "gender",
+  "meaning": "性别",
+  "tags": "nce-a"
+ },
+ {
+  "term": "generate",
+  "meaning": "产生",
+  "tags": "nce-a"
+ },
+ {
+  "term": "generation",
+  "meaning": "一代；产生",
+  "tags": "nce-a"
+ },
+ {
+  "term": "globe",
+  "meaning": "地球",
+  "tags": "nce-a"
+ },
+ {
+  "term": "goal",
+  "meaning": "球门；目标",
+  "tags": "nce-a"
+ },
+ {
+  "term": "grade",
+  "meaning": "等级；年级；成绩",
+  "tags": "nce-a"
+ },
+ {
+  "term": "grant",
+  "meaning": "拨款；助学金",
+  "tags": "nce-a"
+ },
+ {
+  "term": "guarantee",
+  "meaning": "保证",
+  "tags": "nce-a"
+ },
+ {
+  "term": "guideline",
+  "meaning": "方针",
+  "tags": "nce-a"
+ },
+ {
+  "term": "hence",
+  "meaning": "因此",
+  "tags": "nce-a"
+ },
+ {
+  "term": "hierarchy",
+  "meaning": "等级制度",
+  "tags": "nce-a"
+ },
+ {
+  "term": "highlight",
+  "meaning": "精华；强调",
+  "tags": "nce-a"
+ },
+ {
+  "term": "hypothesis",
+  "meaning": "假设",
+  "tags": "nce-a"
+ },
+ {
+  "term": "identical",
+  "meaning": "相同的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "identify",
+  "meaning": "识别",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ideology",
+  "meaning": "思想体系",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ignorant",
+  "meaning": "无知的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "illustrate",
+  "meaning": "举例说明；图解",
+  "tags": "nce-a"
+ },
+ {
+  "term": "image",
+  "meaning": "图像；形象",
+  "tags": "nce-a"
+ },
+ {
+  "term": "immigrate",
+  "meaning": "移民",
+  "tags": "nce-a"
+ },
+ {
+  "term": "impact",
+  "meaning": "影响",
+  "tags": "nce-a"
+ },
+ {
+  "term": "implement",
+  "meaning": "工具；执行",
+  "tags": "nce-a"
+ },
+ {
+  "term": "implicate",
+  "meaning": "暗指",
+  "tags": "nce-a"
+ },
+ {
+  "term": "implicit",
+  "meaning": "暗指",
+  "tags": "nce-a"
+ },
+ {
+  "term": "imply",
+  "meaning": "暗指",
+  "tags": "nce-a"
+ },
+ {
+  "term": "impose",
+  "meaning": "征收；强加",
+  "tags": "nce-a"
+ },
+ {
+  "term": "incentive",
+  "meaning": "刺激",
+  "tags": "nce-a"
+ },
+ {
+  "term": "incidence",
+  "meaning": "发生",
+  "tags": "nce-a"
+ },
+ {
+  "term": "incline",
+  "meaning": "斜坡；使倾斜",
+  "tags": "nce-a"
+ },
+ {
+  "term": "income",
+  "meaning": "收入",
+  "tags": "nce-a"
+ },
+ {
+  "term": "incorporate",
+  "meaning": "合并",
+  "tags": "nce-a"
+ },
+ {
+  "term": "index",
+  "meaning": "索引；指标",
+  "tags": "nce-a"
+ },
+ {
+  "term": "indicate",
+  "meaning": "表明",
+  "tags": "nce-a"
+ },
+ {
+  "term": "individual",
+  "meaning": "个人",
+  "tags": "nce-a"
+ },
+ {
+  "term": "induce",
+  "meaning": "引起",
+  "tags": "nce-a"
+ },
+ {
+  "term": "inevitable",
+  "meaning": "必然的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "infer",
+  "meaning": "推断",
+  "tags": "nce-a"
+ },
+ {
+  "term": "infrastructure",
+  "meaning": "基础设施",
+  "tags": "nce-a"
+ },
+ {
+  "term": "inherent",
+  "meaning": "固有的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "inhibit",
+  "meaning": "抑制",
+  "tags": "nce-a"
+ },
+ {
+  "term": "initial",
+  "meaning": "最初的；词首的；首字母",
+  "tags": "nce-a"
+ },
+ {
+  "term": "initiate",
+  "meaning": "开始",
+  "tags": "nce-a"
+ },
+ {
+  "term": "injure",
+  "meaning": "使受伤",
+  "tags": "nce-a"
+ },
+ {
+  "term": "innovate",
+  "meaning": "创新",
+  "tags": "nce-a"
+ },
+ {
+  "term": "input",
+  "meaning": "输入",
+  "tags": "nce-a"
+ },
+ {
+  "term": "insert",
+  "meaning": "插入；插页",
+  "tags": "nce-a"
+ },
+ {
+  "term": "insight",
+  "meaning": "见识",
+  "tags": "nce-a"
+ },
+ {
+  "term": "inspect",
+  "meaning": "视察",
+  "tags": "nce-a"
+ },
+ {
+  "term": "instance",
+  "meaning": "例子",
+  "tags": "nce-a"
+ },
+ {
+  "term": "institute",
+  "meaning": "研究所；学院",
+  "tags": "nce-a"
+ },
+ {
+  "term": "instruct",
+  "meaning": "教；指示",
+  "tags": "nce-a"
+ },
+ {
+  "term": "integral",
+  "meaning": "整体的；整的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "integrate",
+  "meaning": "使结合",
+  "tags": "nce-a"
+ },
+ {
+  "term": "integrity",
+  "meaning": "诚信；完整",
+  "tags": "nce-a"
+ },
+ {
+  "term": "intelligent",
+  "meaning": "聪明的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "intense",
+  "meaning": "强烈的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "interact",
+  "meaning": "相互作用",
+  "tags": "nce-a"
+ },
+ {
+  "term": "intermediate",
+  "meaning": "中间的；中级的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "internal",
+  "meaning": "内部的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "interpret",
+  "meaning": "解释；口译",
+  "tags": "nce-a"
+ },
+ {
+  "term": "interval",
+  "meaning": "间隔",
+  "tags": "nce-a"
+ },
+ {
+  "term": "intervene",
+  "meaning": "干预",
+  "tags": "nce-a"
+ },
+ {
+  "term": "intrinsic",
+  "meaning": "内在的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "invest",
+  "meaning": "投资",
+  "tags": "nce-a"
+ },
+ {
+  "term": "investigate",
+  "meaning": "调查",
+  "tags": "nce-a"
+ },
+ {
+  "term": "invoke",
+  "meaning": "恳求",
+  "tags": "nce-a"
+ },
+ {
+  "term": "involve",
+  "meaning": "牵涉",
+  "tags": "nce-a"
+ },
+ {
+  "term": "isolate",
+  "meaning": "孤立",
+  "tags": "nce-a"
+ },
+ {
+  "term": "issue",
+  "meaning": "问题；发行",
+  "tags": "nce-a"
+ },
+ {
+  "term": "item",
+  "meaning": "项目",
+  "tags": "nce-a"
+ },
+ {
+  "term": "job",
+  "meaning": "工作",
+  "tags": "nce-a"
+ },
+ {
+  "term": "journal",
+  "meaning": "杂志；日记",
+  "tags": "nce-a"
+ },
+ {
+  "term": "justify",
+  "meaning": "证明",
+  "tags": "nce-a"
+ },
+ {
+  "term": "label",
+  "meaning": "标签",
+  "tags": "nce-a"
+ },
+ {
+  "term": "labor",
+  "meaning": "劳动",
+  "tags": "nce-a"
+ },
+ {
+  "term": "layer",
+  "meaning": "层",
+  "tags": "nce-a"
+ },
+ {
+  "term": "lecture",
+  "meaning": "讲课；讲座",
+  "tags": "nce-a"
+ },
+ {
+  "term": "legal",
+  "meaning": "合法的；法律的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "legislate",
+  "meaning": "立法",
+  "tags": "nce-a"
+ },
+ {
+  "term": "levy",
+  "meaning": "征收",
+  "tags": "nce-a"
+ },
+ {
+  "term": "liberal",
+  "meaning": "自由的；开明的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "license",
+  "meaning": "执照",
+  "tags": "nce-a"
+ },
+ {
+  "term": "likewise",
+  "meaning": "同样地",
+  "tags": "nce-a"
+ },
+ {
+  "term": "link",
+  "meaning": "连接；环节",
+  "tags": "nce-a"
+ },
+ {
+  "term": "locate",
+  "meaning": "使位于；找到",
+  "tags": "nce-a"
+ },
+ {
+  "term": "logic",
+  "meaning": "逻辑",
+  "tags": "nce-a"
+ },
+ {
+  "term": "maintain",
+  "meaning": "维持；维修",
+  "tags": "nce-a"
+ },
+ {
+  "term": "major",
+  "meaning": "主要的；专业",
+  "tags": "nce-a"
+ },
+ {
+  "term": "manipulate",
+  "meaning": "操作",
+  "tags": "nce-a"
+ },
+ {
+  "term": "manual",
+  "meaning": "体力的；手册",
+  "tags": "nce-a"
+ },
+ {
+  "term": "margin",
+  "meaning": "页边",
+  "tags": "nce-a"
+ },
+ {
+  "term": "mature",
+  "meaning": "成熟",
+  "tags": "nce-a"
+ },
+ {
+  "term": "maximize",
+  "meaning": "使最大化",
+  "tags": "nce-a"
+ },
+ {
+  "term": "mechanism",
+  "meaning": "装置；机制",
+  "tags": "nce-a"
+ },
+ {
+  "term": "media",
+  "meaning": "媒体",
+  "tags": "nce-a"
+ },
+ {
+  "term": "mediate",
+  "meaning": "调停",
+  "tags": "nce-a"
+ },
+ {
+  "term": "medical",
+  "meaning": "医学的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "medium",
+  "meaning": "媒介；中等的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "mental",
+  "meaning": "脑力的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "method",
+  "meaning": "方法",
+  "tags": "nce-a"
+ },
+ {
+  "term": "migrate",
+  "meaning": "迁移",
+  "tags": "nce-a"
+ },
+ {
+  "term": "military",
+  "meaning": "军事的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "minimal",
+  "meaning": "最小的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "minimize",
+  "meaning": "最小化",
+  "tags": "nce-a"
+ },
+ {
+  "term": "minimum",
+  "meaning": "最小值",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ministry",
+  "meaning": "部",
+  "tags": "nce-a"
+ },
+ {
+  "term": "minor",
+  "meaning": "次要的；辅修专业",
+  "tags": "nce-a"
+ },
+ {
+  "term": "mode",
+  "meaning": "模式",
+  "tags": "nce-a"
+ },
+ {
+  "term": "modify",
+  "meaning": "修改；修饰",
+  "tags": "nce-a"
+ },
+ {
+  "term": "monitor",
+  "meaning": "监视",
+  "tags": "nce-a"
+ },
+ {
+  "term": "motive",
+  "meaning": "动机",
+  "tags": "nce-a"
+ },
+ {
+  "term": "mutual",
+  "meaning": "相互的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "negate",
+  "meaning": "否定",
+  "tags": "nce-a"
+ },
+ {
+  "term": "network",
+  "meaning": "网络",
+  "tags": "nce-a"
+ },
+ {
+  "term": "neutral",
+  "meaning": "中立的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "nevertheless",
+  "meaning": "然而",
+  "tags": "nce-a"
+ },
+ {
+  "term": "nonetheless",
+  "meaning": "然而",
+  "tags": "nce-a"
+ },
+ {
+  "term": "norm",
+  "meaning": "标准",
+  "tags": "nce-a"
+ },
+ {
+  "term": "normal",
+  "meaning": "正常的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "notion",
+  "meaning": "概念；想法",
+  "tags": "nce-a"
+ },
+ {
+  "term": "notwithstanding",
+  "meaning": "虽然",
+  "tags": "nce-a"
+ },
+ {
+  "term": "nuclear",
+  "meaning": "核的；核心的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "objective",
+  "meaning": "客观的；目标",
+  "tags": "nce-a"
+ },
+ {
+  "term": "obtain",
+  "meaning": "获得",
+  "tags": "nce-a"
+ },
+ {
+  "term": "obvious",
+  "meaning": "明显的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "occupy",
+  "meaning": "占领；使忙碌",
+  "tags": "nce-a"
+ },
+ {
+  "term": "occur",
+  "meaning": "出现",
+  "tags": "nce-a"
+ },
+ {
+  "term": "odd",
+  "meaning": "奇数的；奇怪的；临时的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "offset",
+  "meaning": "抵消",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ongoing",
+  "meaning": "进行中的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "option",
+  "meaning": "选择",
+  "tags": "nce-a"
+ },
+ {
+  "term": "orient",
+  "meaning": "东方",
+  "tags": "nce-a"
+ },
+ {
+  "term": "outcome",
+  "meaning": "结果",
+  "tags": "nce-a"
+ },
+ {
+  "term": "output",
+  "meaning": "产量；产出",
+  "tags": "nce-a"
+ },
+ {
+  "term": "overall",
+  "meaning": "总体的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "overlap",
+  "meaning": "重叠",
+  "tags": "nce-a"
+ },
+ {
+  "term": "overseas",
+  "meaning": "海外",
+  "tags": "nce-a"
+ },
+ {
+  "term": "panel",
+  "meaning": "专家小组；面板",
+  "tags": "nce-a"
+ },
+ {
+  "term": "paradigm",
+  "meaning": "范例",
+  "tags": "nce-a"
+ },
+ {
+  "term": "paragraph",
+  "meaning": "段落",
+  "tags": "nce-a"
+ },
+ {
+  "term": "parallel",
+  "meaning": "平行的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "parameter",
+  "meaning": "参数",
+  "tags": "nce-a"
+ },
+ {
+  "term": "participate",
+  "meaning": "参加",
+  "tags": "nce-a"
+ },
+ {
+  "term": "partner",
+  "meaning": "搭档",
+  "tags": "nce-a"
+ },
+ {
+  "term": "passive",
+  "meaning": "被动的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "perceive",
+  "meaning": "察觉；理解",
+  "tags": "nce-a"
+ },
+ {
+  "term": "percent",
+  "meaning": "百分之",
+  "tags": "nce-a"
+ },
+ {
+  "term": "period",
+  "meaning": "时期；句号",
+  "tags": "nce-a"
+ },
+ {
+  "term": "persist",
+  "meaning": "持续",
+  "tags": "nce-a"
+ },
+ {
+  "term": "perspective",
+  "meaning": "角度",
+  "tags": "nce-a"
+ },
+ {
+  "term": "phase",
+  "meaning": "阶段",
+  "tags": "nce-a"
+ },
+ {
+  "term": "phenomenon",
+  "meaning": "现象",
+  "tags": "nce-a"
+ },
+ {
+  "term": "philosophy",
+  "meaning": "哲学",
+  "tags": "nce-a"
+ },
+ {
+  "term": "physical",
+  "meaning": "身体的；物理的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "plus",
+  "meaning": "加",
+  "tags": "nce-a"
+ },
+ {
+  "term": "policy",
+  "meaning": "政策",
+  "tags": "nce-a"
+ },
+ {
+  "term": "portion",
+  "meaning": "部分",
+  "tags": "nce-a"
+ },
+ {
+  "term": "pose",
+  "meaning": "摆姿势",
+  "tags": "nce-a"
+ },
+ {
+  "term": "positive",
+  "meaning": "积极的；阳性的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "potential",
+  "meaning": "潜在的；潜力",
+  "tags": "nce-a"
+ },
+ {
+  "term": "practitioner",
+  "meaning": "从业者",
+  "tags": "nce-a"
+ },
+ {
+  "term": "precede",
+  "meaning": "先于",
+  "tags": "nce-a"
+ },
+ {
+  "term": "precise",
+  "meaning": "精确的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "predict",
+  "meaning": "预测",
+  "tags": "nce-a"
+ },
+ {
+  "term": "predominant",
+  "meaning": "主要的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "preliminary",
+  "meaning": "初步的；初赛",
+  "tags": "nce-a"
+ },
+ {
+  "term": "presume",
+  "meaning": "假设",
+  "tags": "nce-a"
+ },
+ {
+  "term": "previous",
+  "meaning": "先前的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "primary",
+  "meaning": "初级的；主要的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "prime",
+  "meaning": "首要的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "principal",
+  "meaning": "主要的；校长",
+  "tags": "nce-a"
+ },
+ {
+  "term": "principle",
+  "meaning": "原则",
+  "tags": "nce-a"
+ },
+ {
+  "term": "prior",
+  "meaning": "在先的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "priority",
+  "meaning": "优先；重点",
+  "tags": "nce-a"
+ },
+ {
+  "term": "proceed",
+  "meaning": "进行",
+  "tags": "nce-a"
+ },
+ {
+  "term": "process",
+  "meaning": "过程；加工",
+  "tags": "nce-a"
+ },
+ {
+  "term": "professional",
+  "meaning": "专业的；专业人员",
+  "tags": "nce-a"
+ },
+ {
+  "term": "prohibit",
+  "meaning": "禁止",
+  "tags": "nce-a"
+ },
+ {
+  "term": "project",
+  "meaning": "工程",
+  "tags": "nce-a"
+ },
+ {
+  "term": "promote",
+  "meaning": "促进；促销",
+  "tags": "nce-a"
+ },
+ {
+  "term": "proportion",
+  "meaning": "比例",
+  "tags": "nce-a"
+ },
+ {
+  "term": "prospect",
+  "meaning": "前景",
+  "tags": "nce-a"
+ },
+ {
+  "term": "protocol",
+  "meaning": "协议；礼仪",
+  "tags": "nce-a"
+ },
+ {
+  "term": "psychology",
+  "meaning": "心理学",
+  "tags": "nce-a"
+ },
+ {
+  "term": "publication",
+  "meaning": "出版；出版物",
+  "tags": "nce-a"
+ },
+ {
+  "term": "publish",
+  "meaning": "出版",
+  "tags": "nce-a"
+ },
+ {
+  "term": "purchase",
+  "meaning": "购买",
+  "tags": "nce-a"
+ },
+ {
+  "term": "pursue",
+  "meaning": "追赶；追求",
+  "tags": "nce-a"
+ },
+ {
+  "term": "qualitative",
+  "meaning": "定性的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "quote",
+  "meaning": "引用",
+  "tags": "nce-a"
+ },
+ {
+  "term": "radical",
+  "meaning": "基本的；激进的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "random",
+  "meaning": "随机的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "range",
+  "meaning": "范围；山脉",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ratio",
+  "meaning": "比",
+  "tags": "nce-a"
+ },
+ {
+  "term": "rational",
+  "meaning": "理性的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "react",
+  "meaning": "反应",
+  "tags": "nce-a"
+ },
+ {
+  "term": "recover",
+  "meaning": "恢复",
+  "tags": "nce-a"
+ },
+ {
+  "term": "refine",
+  "meaning": "提炼",
+  "tags": "nce-a"
+ },
+ {
+  "term": "regime",
+  "meaning": "政权",
+  "tags": "nce-a"
+ },
+ {
+  "term": "region",
+  "meaning": "地区",
+  "tags": "nce-a"
+ },
+ {
+  "term": "register",
+  "meaning": "登记；挂号",
+  "tags": "nce-a"
+ },
+ {
+  "term": "regulate",
+  "meaning": "调节",
+  "tags": "nce-a"
+ },
+ {
+  "term": "reinforce",
+  "meaning": "加强",
+  "tags": "nce-a"
+ },
+ {
+  "term": "reject",
+  "meaning": "拒绝",
+  "tags": "nce-a"
+ },
+ {
+  "term": "relax",
+  "meaning": "放松",
+  "tags": "nce-a"
+ },
+ {
+  "term": "release",
+  "meaning": "释放",
+  "tags": "nce-a"
+ },
+ {
+  "term": "relevant",
+  "meaning": "有关的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "reluctance",
+  "meaning": "勉强",
+  "tags": "nce-a"
+ },
+ {
+  "term": "rely",
+  "meaning": "依赖",
+  "tags": "nce-a"
+ },
+ {
+  "term": "remove",
+  "meaning": "移走",
+  "tags": "nce-a"
+ },
+ {
+  "term": "require",
+  "meaning": "要求",
+  "tags": "nce-a"
+ },
+ {
+  "term": "research",
+  "meaning": "研究",
+  "tags": "nce-a"
+ },
+ {
+  "term": "reside",
+  "meaning": "居住",
+  "tags": "nce-a"
+ },
+ {
+  "term": "resolve",
+  "meaning": "解决；决心；决心",
+  "tags": "nce-a"
+ },
+ {
+  "term": "resource",
+  "meaning": "资源",
+  "tags": "nce-a"
+ },
+ {
+  "term": "respond",
+  "meaning": "响应",
+  "tags": "nce-a"
+ },
+ {
+  "term": "restore",
+  "meaning": "恢复",
+  "tags": "nce-a"
+ },
+ {
+  "term": "restrain",
+  "meaning": "抑制",
+  "tags": "nce-a"
+ },
+ {
+  "term": "restrict",
+  "meaning": "限制",
+  "tags": "nce-a"
+ },
+ {
+  "term": "retain",
+  "meaning": "保留",
+  "tags": "nce-a"
+ },
+ {
+  "term": "reveal",
+  "meaning": "显示",
+  "tags": "nce-a"
+ },
+ {
+  "term": "revenue",
+  "meaning": "收入；税收",
+  "tags": "nce-a"
+ },
+ {
+  "term": "reverse",
+  "meaning": "背面；颠倒",
+  "tags": "nce-a"
+ },
+ {
+  "term": "revise",
+  "meaning": "修改",
+  "tags": "nce-a"
+ },
+ {
+  "term": "revolution",
+  "meaning": "革命；旋转",
+  "tags": "nce-a"
+ },
+ {
+  "term": "rigid",
+  "meaning": "僵硬的：刻板的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "role",
+  "meaning": "角色",
+  "tags": "nce-a"
+ },
+ {
+  "term": "route",
+  "meaning": "路线",
+  "tags": "nce-a"
+ },
+ {
+  "term": "scenario",
+  "meaning": "剧本；方案",
+  "tags": "nce-a"
+ },
+ {
+  "term": "schedule",
+  "meaning": "时间表",
+  "tags": "nce-a"
+ },
+ {
+  "term": "scheme",
+  "meaning": "方案",
+  "tags": "nce-a"
+ },
+ {
+  "term": "scope",
+  "meaning": "范围",
+  "tags": "nce-a"
+ },
+ {
+  "term": "section",
+  "meaning": "部分",
+  "tags": "nce-a"
+ },
+ {
+  "term": "sector",
+  "meaning": "部门",
+  "tags": "nce-a"
+ },
+ {
+  "term": "secure",
+  "meaning": "安全的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "seek",
+  "meaning": "试图",
+  "tags": "nce-a"
+ },
+ {
+  "term": "select",
+  "meaning": "选择",
+  "tags": "nce-a"
+ },
+ {
+  "term": "sequence",
+  "meaning": "顺序",
+  "tags": "nce-a"
+ },
+ {
+  "term": "series",
+  "meaning": "系列",
+  "tags": "nce-a"
+ },
+ {
+  "term": "sex",
+  "meaning": "性；性别",
+  "tags": "nce-a"
+ },
+ {
+  "term": "shift",
+  "meaning": "转换",
+  "tags": "nce-a"
+ },
+ {
+  "term": "significant",
+  "meaning": "重要的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "similar",
+  "meaning": "相似的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "simulate",
+  "meaning": "模拟",
+  "tags": "nce-a"
+ },
+ {
+  "term": "site",
+  "meaning": "地点",
+  "tags": "nce-a"
+ },
+ {
+  "term": "sole",
+  "meaning": "脚底；鞋底；唯一的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "somewhat",
+  "meaning": "有点",
+  "tags": "nce-a"
+ },
+ {
+  "term": "source",
+  "meaning": "来源",
+  "tags": "nce-a"
+ },
+ {
+  "term": "specific",
+  "meaning": "具体的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "specify",
+  "meaning": "详述",
+  "tags": "nce-a"
+ },
+ {
+  "term": "sphere",
+  "meaning": "球体；领域",
+  "tags": "nce-a"
+ },
+ {
+  "term": "stable",
+  "meaning": "稳定的；马厩",
+  "tags": "nce-a"
+ },
+ {
+  "term": "statistic",
+  "meaning": "统计的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "status",
+  "meaning": "地位",
+  "tags": "nce-a"
+ },
+ {
+  "term": "straightforward",
+  "meaning": "坦率的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "strategy",
+  "meaning": "战略；策略",
+  "tags": "nce-a"
+ },
+ {
+  "term": "stress",
+  "meaning": "压力；重音；强调",
+  "tags": "nce-a"
+ },
+ {
+  "term": "structure",
+  "meaning": "结构",
+  "tags": "nce-a"
+ },
+ {
+  "term": "style",
+  "meaning": "风格",
+  "tags": "nce-a"
+ },
+ {
+  "term": "submit",
+  "meaning": "使屈服；提交",
+  "tags": "nce-a"
+ },
+ {
+  "term": "subordinate",
+  "meaning": "下级的；从属的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "subsequent",
+  "meaning": "随后的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "subsidy",
+  "meaning": "补助",
+  "tags": "nce-a"
+ },
+ {
+  "term": "substitute",
+  "meaning": "代替者；代替",
+  "tags": "nce-a"
+ },
+ {
+  "term": "successor",
+  "meaning": "继任者",
+  "tags": "nce-a"
+ },
+ {
+  "term": "sufficient",
+  "meaning": "足够的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "sum",
+  "meaning": "金额",
+  "tags": "nce-a"
+ },
+ {
+  "term": "summary",
+  "meaning": "总结",
+  "tags": "nce-a"
+ },
+ {
+  "term": "supplement",
+  "meaning": "补充",
+  "tags": "nce-a"
+ },
+ {
+  "term": "survey",
+  "meaning": "调查",
+  "tags": "nce-a"
+ },
+ {
+  "term": "survive",
+  "meaning": "幸存",
+  "tags": "nce-a"
+ },
+ {
+  "term": "suspend",
+  "meaning": "暂停",
+  "tags": "nce-a"
+ },
+ {
+  "term": "sustain",
+  "meaning": "保持",
+  "tags": "nce-a"
+ },
+ {
+  "term": "symbol",
+  "meaning": "象征；符号",
+  "tags": "nce-a"
+ },
+ {
+  "term": "tape",
+  "meaning": "磁带",
+  "tags": "nce-a"
+ },
+ {
+  "term": "target",
+  "meaning": "靶子；目标",
+  "tags": "nce-a"
+ },
+ {
+  "term": "task",
+  "meaning": "任务",
+  "tags": "nce-a"
+ },
+ {
+  "term": "team",
+  "meaning": "队",
+  "tags": "nce-a"
+ },
+ {
+  "term": "technical",
+  "meaning": "技术的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "technique",
+  "meaning": "技巧",
+  "tags": "nce-a"
+ },
+ {
+  "term": "technology",
+  "meaning": "技术",
+  "tags": "nce-a"
+ },
+ {
+  "term": "temporary",
+  "meaning": "暂时的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "tense",
+  "meaning": "紧张的；时态",
+  "tags": "nce-a"
+ },
+ {
+  "term": "terminate",
+  "meaning": "终止",
+  "tags": "nce-a"
+ },
+ {
+  "term": "text",
+  "meaning": "文本",
+  "tags": "nce-a"
+ },
+ {
+  "term": "theme",
+  "meaning": "主题",
+  "tags": "nce-a"
+ },
+ {
+  "term": "theory",
+  "meaning": "理论",
+  "tags": "nce-a"
+ },
+ {
+  "term": "thereby",
+  "meaning": "从而",
+  "tags": "nce-a"
+ },
+ {
+  "term": "thesis",
+  "meaning": "论文",
+  "tags": "nce-a"
+ },
+ {
+  "term": "topic",
+  "meaning": "话题",
+  "tags": "nce-a"
+ },
+ {
+  "term": "trace",
+  "meaning": "痕迹",
+  "tags": "nce-a"
+ },
+ {
+  "term": "tradition",
+  "meaning": "传统",
+  "tags": "nce-a"
+ },
+ {
+  "term": "transfer",
+  "meaning": "转移；换车",
+  "tags": "nce-a"
+ },
+ {
+  "term": "transform",
+  "meaning": "转变",
+  "tags": "nce-a"
+ },
+ {
+  "term": "transit",
+  "meaning": "通过；运输；过渡",
+  "tags": "nce-a"
+ },
+ {
+  "term": "transmit",
+  "meaning": "输送",
+  "tags": "nce-a"
+ },
+ {
+  "term": "transport",
+  "meaning": "运输",
+  "tags": "nce-a"
+ },
+ {
+  "term": "trend",
+  "meaning": "趋势",
+  "tags": "nce-a"
+ },
+ {
+  "term": "trigger",
+  "meaning": "扳机；触发",
+  "tags": "nce-a"
+ },
+ {
+  "term": "ultimate",
+  "meaning": "最终的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "undergo",
+  "meaning": "经受",
+  "tags": "nce-a"
+ },
+ {
+  "term": "underlie",
+  "meaning": "是…的基础",
+  "tags": "nce-a"
+ },
+ {
+  "term": "undertake",
+  "meaning": "从事",
+  "tags": "nce-a"
+ },
+ {
+  "term": "uniform",
+  "meaning": "一致的；制服",
+  "tags": "nce-a"
+ },
+ {
+  "term": "unify",
+  "meaning": "统一",
+  "tags": "nce-a"
+ },
+ {
+  "term": "unique",
+  "meaning": "独一无二的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "utilize",
+  "meaning": "利用",
+  "tags": "nce-a"
+ },
+ {
+  "term": "valid",
+  "meaning": "有效的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "vary",
+  "meaning": "变化",
+  "tags": "nce-a"
+ },
+ {
+  "term": "vehicle",
+  "meaning": "车辆",
+  "tags": "nce-a"
+ },
+ {
+  "term": "version",
+  "meaning": "译文",
+  "tags": "nce-a"
+ },
+ {
+  "term": "via",
+  "meaning": "经过",
+  "tags": "nce-a"
+ },
+ {
+  "term": "violate",
+  "meaning": "违犯",
+  "tags": "nce-a"
+ },
+ {
+  "term": "virtual",
+  "meaning": "实际上的；虚拟的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "visible",
+  "meaning": "可见的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "vision",
+  "meaning": "视力",
+  "tags": "nce-a"
+ },
+ {
+  "term": "visual",
+  "meaning": "视觉的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "volume",
+  "meaning": "册；音量；体积",
+  "tags": "nce-a"
+ },
+ {
+  "term": "voluntary",
+  "meaning": "志愿的",
+  "tags": "nce-a"
+ },
+ {
+  "term": "welfare",
+  "meaning": "福利",
+  "tags": "nce-a"
+ },
+ {
+  "term": "whereas",
+  "meaning": "而",
+  "tags": "nce-a"
+ },
+ {
+  "term": "whereby",
+  "meaning": "由此",
+  "tags": "nce-a"
+ },
+ {
+  "term": "widespread",
+  "meaning": "普遍的",
+  "tags": "nce-a"
+ }
+]

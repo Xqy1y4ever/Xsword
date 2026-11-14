@@ -1,0 +1,35 @@
+# 依赖与构建产物
+node_modules/
+dist/
+.npm-cache/
+
+# 本地数据（SQLite、备份、训练记录）——含个人数据与 API Key，绝不提交
+data/
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
+# 环境变量与密钥
+.env
+.env.*
+!.env.example
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# 日志与临时文件
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# 编辑器
+.idea/
+.vscode/
